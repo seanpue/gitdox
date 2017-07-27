@@ -21,7 +21,7 @@ To configure on server or localhost, simply download the files, and make sure
 
 To start the app, run index.py and log in with admin or your credentials. 
 
-(3) using the spreadsheet editor requires an installation of EtherCalc, and xml validation requires xmllint.
+(3) using the spreadsheet editor requires an installation of EtherCalc, and xml validation requires libxml2 and the executable xmllint.
 
 
 (c) 2016-2017 Shuo Zhang (@zangsir) and Amir Zeldes (@amir-zeldes)
